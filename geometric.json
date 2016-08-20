@@ -1,0 +1,47 @@
+{
+	"pattrstorage" : 	{
+		"name" : "storage",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"interpol8r::x_step" : [ 0.848425 ],
+					"interpol8r::interp_mode" : [ 6.0 ],
+					"interpol8r::mode" : [ 0.0 ],
+					"interpol8r::y_step" : [ 0.0 ],
+					"slidr::up" : [ 50.0 ],
+					"slidr::down" : [ 53.0 ],
+					"bp.Stereo::DSP" : [ 1.0 ],
+					"bp.Stereo::Level" : [ -4.281856 ],
+					"bp.Stereo::Mute" : [ 0.0 ],
+					"bp.Stereo::OutputChannel" : [ 0.0 ],
+					"bp.Input::Channel" : [ 1.0 ],
+					"bp.Input::mute" : [ 1.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"interpol8r::x_step" : [ 0.848425 ],
+					"interpol8r::interp_mode" : [ 6.0 ],
+					"interpol8r::mode" : [ 0.0 ],
+					"interpol8r::y_step" : [ 0.0 ],
+					"slidr::up" : [ 142.0 ],
+					"slidr::down" : [ 53.0 ],
+					"bp.Stereo::DSP" : [ 1.0 ],
+					"bp.Stereo::Level" : [ -4.281856 ],
+					"bp.Stereo::Mute" : [ 0.0 ],
+					"bp.Stereo::OutputChannel" : [ 0.0 ],
+					"bp.Input::Channel" : [ 1.0 ],
+					"bp.Input::mute" : [ 1.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
